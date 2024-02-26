@@ -1,3 +1,3 @@
-module github.com/samuel/go-thrift
+module github.com/j3r3miah/go-thrift
 
-go 1.17
+go 1.18
